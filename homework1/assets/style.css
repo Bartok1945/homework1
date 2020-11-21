@@ -86,6 +86,8 @@ p {
     background-color: #2589bd;
 }
 
+/*reduced amount of styling by changing the html elements to the same class name "benefit-article"*/
+
 .benefit-article {
     margin-bottom: 32px;
     color: #ffffff;
@@ -106,6 +108,7 @@ p {
 }
 
 
+/*reduced amount of css code by changing all the relevant html elements to the class "sercives"*/
 
 .services {
     margin-bottom: 20px;
